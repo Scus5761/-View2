@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="BreathView">
+        <attr name="duration" format="integer" />
+        <attr name="diffuseColor" format="color" />
+        <attr name="coreColor" format="color" />
+        <attr name="coreRadius" format="integer" />
+        <attr name="outerRadius" format="integer" />
+        <attr name="innerRadius" format="integer" />
+        <attr name="innerColor" format="color" />
+    </declare-styleable>
+</resources>
